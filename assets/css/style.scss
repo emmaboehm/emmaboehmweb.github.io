@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+\\ a comment
+nav {
+  
+  ul {
+    list-style-type: none;
+    list-stylle: none;
+    padding:0;
+    margin:0;
+  }
+  
+  li {
+    font-size: 20pt;
+    display: inline;
+  }
+}
+
+h1 {
+  color: aqua;
+}
