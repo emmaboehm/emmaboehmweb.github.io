@@ -7,4 +7,4 @@ permalink: /about/
 # {{ page.title }}
 <!-- some comment -->
 
-something about me
+I'm a current Ph.D. student in Dr. Jen Lau's lab at Indiana University - Bloomington.
