@@ -7,4 +7,4 @@ permalink: /about/
 # {{ page.title }}
 <!-- some comment -->
 
-I'm a current Ph.D. student in Dr. Jen Lau's lab at Indiana University - Bloomington.
+I am an evolutionary ecologist interested in how plant populations respond to rapid environmental changes. I am currently Ph.D. candidate in Dr. Jen Lau's lab at Indiana University - Bloomington.
