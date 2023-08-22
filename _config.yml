@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Emma L. Boehm
-show_downloads: [false]
+show_downloads: false
 markdown: kramdown
