@@ -9,7 +9,7 @@ permalink: /research/
 
 # Research 
 
-## Environmental distance and strength of selection
-## Evolution of phenotypic plasticity 
-## Role of phenotypic plasticity in novel environments
+### Environmental distance and strength of selection
+### Evolution of phenotypic plasticity 
+### Role of phenotypic plasticity in novel environments
 
